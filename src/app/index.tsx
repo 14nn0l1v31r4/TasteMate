@@ -40,7 +40,7 @@ export default function Index() {
       <Restaurants />
 
       <Section 
-      name={"Restaurates "} 
+      name={"Restaurantes "} 
       size={"text-xl"} 
       label="Ver restaurantes"
       action={ () => console.log("Clicou no restaurantes") }>
